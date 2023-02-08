@@ -5,7 +5,7 @@ with open('README.rst') as f:
     long_description = f.read()
 
 setup(
-    name='flask-lambda-python36',
+    name='flask-lambda-python37',
     version='0.1.0',
     description=('Python3.6+ module to make Flask compatible with AWS Lambda'),
     long_description=long_description,
